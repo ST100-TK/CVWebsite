@@ -1,2 +1,2 @@
 # CVWebsite
-A website version of my cv done using HTML and CSS
+A website version of my CV done using HTML and CSS
